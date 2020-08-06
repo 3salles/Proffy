@@ -55,7 +55,7 @@ $ yarb start
 
 # Acesse a porta 
 http://localhost:3333/
-
+```
 ## Funcionalidades
 -[x] Tela de cadastro de professor e estudante
 -[x] Tela de contato entre professor e estudante
