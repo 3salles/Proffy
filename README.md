@@ -51,7 +51,7 @@ $ git clone
 $ cd Proffy/server
 
 # Instale as dependências
-$ yarb start
+$ yarn start
 
 # Acesse a porta 
 http://localhost:3333/
