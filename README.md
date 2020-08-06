@@ -57,10 +57,10 @@ $ yarb start
 http://localhost:3333/
 ```
 ## Funcionalidades
--[x] Tela de cadastro de professor e estudante
--[x] Tela de contato entre professor e estudante
--[ ] Formato para celular
--[ ] Modo escuro
+- [x] Tela de cadastro de professor e estudante
+- [x] Tela de contato entre professor e estudante
+- [ ] Formato para celular
+- [ ] Modo escuro
 
 ## Autora
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/3salles)](https://github.com/3salles)
