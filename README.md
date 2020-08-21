@@ -45,7 +45,7 @@ Git, node.js, yarn
 ```bash
 
 # Clone o repositório
-$ git clone 
+$ git clone https://github.com/3salles/Proffy.git
 
 # Abra a pasta do servidor
 $ cd Proffy/server
